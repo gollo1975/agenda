@@ -9,7 +9,7 @@
     <link href="<?php echo base_url; ?>Assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="<?php echo base_url; ?>Assets/css/main.min.css" rel="stylesheet">
 
-    <title>Hello, world!</title>
+    <title>Agenda electronica</title>
   </head>
   <body>
       <div class="container">
